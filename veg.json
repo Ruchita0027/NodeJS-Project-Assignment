@@ -1,0 +1,18 @@
+[
+
+{ 
+    "rootVegetables" : [ "turnips",
+                         "ginger",
+                         "beets"]
+},
+
+{    
+    "leafyVegetables" : ["brocoli",
+                         "beets"]
+},
+
+{
+    "leafyVegetables" : [ "spinch", 
+                          "cabage"]
+}       
+]
